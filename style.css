@@ -1,0 +1,202 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: "Montserrat", sans-serif;
+    background-color: #031335;
+    
+}
+/* NAV SECTION */
+nav{
+   background-color:#030B1D;
+   display: flex;
+   justify-content: space-around; 
+   align-items: center;
+   height: 80px;
+   width: 100vw;
+   position: fixed;
+   top: 0px;
+   
+}
+.group4{
+    width: 170px;
+}
+.pass{
+    color: white;
+    font-size: 25px;
+}
+.moniepoint-logo{
+    width: 200px;
+}
+/* NAV SECTION ENDED */
+
+/* HERO1 SECTION */
+.hero1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin-top: 40px;
+    gap: 20px;
+}
+
+.background{
+    width: 520px;
+    display: flex;
+    flex-direction: column;
+    align-items: inherit;
+    text-align: center;
+}
+
+.history-text{
+    font-size: 43px;
+    font-weight: 550;
+    color:white;
+}
+
+.history-para{
+    width: 500px;
+    margin-top: 20px;
+    color: lavender;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 1.5;
+
+}
+
+.first-image{
+    width: 830px;
+    height: 550px;
+    border-radius: 50px;
+}
+
+span{
+    color:#B0D3E8;
+}
+
+h4{
+    font-size: 25px;
+    font-weight: 550;
+    margin-top: 8px;
+    color:whitesmoke;
+}
+
+/* HERO1 SECTION ENDED*/
+
+/* HERO2 SECTION */
+.hero2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    gap: 30px;
+}
+
+.second-image{
+    width: 810px;
+    height: 600px;
+    border-radius: 70px;
+}
+
+.second-text{
+    display: flex;
+    flex-direction: column;
+    align-items: inherit;
+    justify-content: center;
+    text-align: center;
+}
+/* HERO2 SECTION ENDED */
+
+/* HERO3 SECTION */
+.hero3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+    gap: 20px;
+}
+
+.third-image{
+    width: 850px;
+    height: 600px;
+    border-radius: 50px;
+}
+
+.third-text{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;  
+}
+
+/* HERO3 SECTION ENDED */
+
+/* HERO4 SECTION */
+  .hero4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    gap: 30px;
+  }
+  
+.fourth-text{
+    display: flex;
+    flex-direction: column;
+    align-items: inherit;
+    justify-content: center;
+    text-align: center;
+}
+
+.fourth-image{
+    width: 790px;
+    height: 600px;
+    border-radius: 50px;
+}
+/* HERO4 SECTION ENDED */
+
+/*HERO5 SECTION */
+.hero5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+    gap: 20px;
+}
+
+.fifth-image{
+    width: 850px;
+    height: 600px;
+    border-radius: 50px; 
+}
+
+.fifth-text{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center; 
+    
+}
+/* HERO5 SECTION ENDED */
+
+/* CONCLUSION SECTION */
+.conclusion{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.con-para{
+    width: 800px;
+    margin-top: 20px;
+    color: lavender;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 1.5; 
+    text-align: center;
+}
+
+/* CONCLUSION SECTION ENDED */
