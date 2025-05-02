@@ -67,8 +67,9 @@ nav{
 
 .first-image{
     width: 830px;
-    height: 550px;
+    height: 600px;
     border-radius: 50px;
+    border: 1px solid #647F99;
 }
 
 span{
@@ -97,6 +98,7 @@ h4{
     width: 810px;
     height: 600px;
     border-radius: 70px;
+    border: 1px solid brown;
 }
 
 .second-text{
@@ -121,6 +123,7 @@ h4{
     width: 850px;
     height: 600px;
     border-radius: 50px;
+    border: 1px solid cadetblue;
 }
 
 .third-text{
@@ -153,6 +156,7 @@ h4{
     width: 790px;
     height: 600px;
     border-radius: 50px;
+    border: 1px solid #647F99;
 }
 /* HERO4 SECTION ENDED */
 
@@ -168,7 +172,8 @@ h4{
 .fifth-image{
     width: 850px;
     height: 600px;
-    border-radius: 50px; 
+    border-radius: 50px;
+    border: 1px solid cadetblue; 
 }
 
 .fifth-text{
